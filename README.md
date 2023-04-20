@@ -1,4 +1,3 @@
-```markdown
 # DFactory Tech
 
 ## About the Company

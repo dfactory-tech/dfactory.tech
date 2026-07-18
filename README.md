@@ -1,13 +1,16 @@
-# DFactory Tech
+# Dfactory Tech
 
 ## About the Company
 
-DFactory Tech is distributed FinTech company with its headquater in Singapore. It has a technology team in Shanghai and an operation team distributed across Asia, Europe, and North America. 
+Dfactory Tech is a distributed fintech company headquartered in Singapore. It has a technology team in Shanghai and an operations team distributed across Asia, Europe, and North America.
 
-DFACTORY TECH PTE. LTD. aims to provide a decentralized financial technology based on the blockchain infrastructure to facilitate users in managing their financial risks or gaining financial exposures to specific assets. The solution will be decentralized, non-custodial, and fully transparent. It will be highly compatible and composable with the whole Web 3.0 framework. 
+Dfactory Ltd develops decentralized financial technology based on blockchain infrastructure to help users manage financial risks or gain financial exposure to specific assets. Its solutions are decentralized, non-custodial, and transparent, with compatibility and composability across the broader Web3 ecosystem.
 
-## Product and Service
+## Products and Services
 
 1. Decentralized financial technology
-2. Incubation of other Web 3 DAPPs based on the platform by Dfactory Tech
+2. Incubation of Web3 decentralized applications built on the Dfactory platform
 
+## Local preview
+
+Run `python3 -m http.server 8000` in this directory, then open <http://127.0.0.1:8000>.

@@ -665,8 +665,30 @@ a {
   margin-top: 0;
 }
 
+.closing-contact {
+  max-width: 590px;
+  margin: 1.8rem 0 0;
+  color: rgba(7, 17, 15, 0.62);
+  font-size: 0.9rem;
+  line-height: 1.7;
+}
+
+.closing-contact a {
+  padding-bottom: 0.12rem;
+  border-bottom: 1px solid rgba(7, 17, 15, 0.45);
+  color: var(--ink);
+  font-weight: 600;
+}
+
+.closing-actions {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.75rem;
+  justify-content: center;
+  margin-top: 2.7rem;
+}
+
 .button-dark {
-  margin-top: 3rem;
   color: var(--paper);
   background: var(--ink);
 }
@@ -674,6 +696,15 @@ a {
 .button-dark:hover {
   color: var(--ink);
   background: var(--acid);
+}
+
+.button-outline {
+  border: 1px solid var(--line);
+  background: transparent;
+}
+
+.button-outline:hover {
+  border-color: var(--ink);
 }
 
 .site-footer {
@@ -698,6 +729,7 @@ a {
 
 .footer-links {
   display: flex;
+  flex-wrap: wrap;
   gap: 1.5rem;
   justify-self: end;
   font-family: var(--font-mono);
